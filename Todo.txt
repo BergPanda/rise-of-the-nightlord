@@ -1,0 +1,6 @@
+
+ToDo:
+- Einscannen von den Starting Classes von allen Elden Ring Expansions (+Basegame)
+- Einscannen von den Starting Classes von allen Dark Souls Expansions (+Basegames)
+- Einscannen von einzelnen Szenarienbüchern von Elden Ring Expansions (+Basegame)
+- 
