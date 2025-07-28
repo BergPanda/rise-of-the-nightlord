@@ -4,3 +4,10 @@ ToDo:
 - Einscannen von den Starting Classes von allen Dark Souls Expansions (+Basegames)
 - Einscannen von einzelnen Szenarienbüchern von Elden Ring Expansions (+Basegame)
 - 
+
+
+ToDo:
+- Nachzählen, wie viele Tag- bzw. Nachtkarten im Weather Deck vorhanden sind.
+- Nachzählen, wie viele Effigy of the Martyr Tokens im Tile Stack vorhanden sind
+    - Und darauf berechnen, wie hoch die Wahrscheinlich keit ist, dass ein spieler
+      bzw. alle Spieler solch einen Token besitzen
