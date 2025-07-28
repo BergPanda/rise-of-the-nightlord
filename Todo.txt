@@ -8,6 +8,39 @@ ToDo:
 
 ToDo:
 - Nachzählen, wie viele Tag- bzw. Nachtkarten im Weather Deck vorhanden sind.
+    - Day
+        - 15 Time Passes
+        - 4 Eventful Day
+        - 1 Sunset
+    - Night
+        - 15 Time Passes
+        - 4 Eventful Night
+        - 1 Sunrise
 - Nachzählen, wie viele Effigy of the Martyr Tokens im Tile Stack vorhanden sind
     - Und darauf berechnen, wie hoch die Wahrscheinlich keit ist, dass ein spieler
       bzw. alle Spieler solch einen Token besitzen
+    - Tiles
+        - S01-S06
+        - 07-61
+        - Site of Grace         7
+        - Stake of Marika       3
+        - Effigy of the Martyr  6
+        - Finger Reader Crone   1
+        - Spirit Spring         6
+        - Spirit Candle         5
+        - Enemy                 6
+        - Merchant              3
+        - Guiding Statue        2
+        - Telescope             2
+        - Dungeon               2
+        - Church                2
+        - Rebirth Monument      2
+        - Star                  2
+        - NPC                   2
+        - Map                   2
+
+- Wie funktioneren Merchants in anderen Szenarien des Basegames?
+    - Wie sollen Merchants in der Overworld funktioneren?
+    - Wie soll der Merchant in Tag 3 funktioniere?
+- Für jede Elden Ring Klasse ein Dark Souls Equivalent finden
+    - Vorbereiten, dass alle Klassen Karten mit Dark Souls Klassen ausgetauscht werden können.
