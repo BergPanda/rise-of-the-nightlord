@@ -23,7 +23,7 @@ The Board Game or Dark Souls: The Board Game products as you can!
 
 ### Elden Ring 
 
-|Product                                                            |Requirements   |Zweck                                                                                                          |
+|Product                                                            |Requirements   |Purpose                                                                                                          |
 |-------------------------------------------------------------------|---------------|---------------------------------------------------------------------------------------------------------------|
 |Elden Ring: The Board Game                                         |Required       |Basegame of Elden Ring: The Board Game. This product is required to play Rise of the Nightlord.                |
 |Elden Ring: The Board Game - Weeping Peninsula Core Set            |Alternative    |This product acts as an alternative to the basegame of Elden Ring: The Board Game, because it is standalone.   |
@@ -36,7 +36,7 @@ The Board Game or Dark Souls: The Board Game products as you can!
 
 ### Dark Souls
 
-|Product                                                            |Requirements   |Zweck                                                                  |
+|Product                                                            |Requirements   |Purpose                                                                  |
 |-------------------------------------------------------------------|---------------|-----------------------------------------------------------------------|
 |Dark Souls: The Board Game                                         |Recommended    |This product unlocks new Bosses, alternative Classes, and Class Skins. |
 |Dark Souls: The Board Game - The Sunless City Core Set             |Alternative    |This product unlocks new Bosses, alternative Classes, and Class Skins. |
