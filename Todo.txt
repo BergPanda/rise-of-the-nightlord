@@ -1,9 +1,6 @@
 
-ToDo:
-- Einscannen von den Starting Classes von allen Elden Ring Expansions (+Basegame)
-- Einscannen von den Starting Classes von allen Dark Souls Expansions (+Basegames)
-- Einscannen von einzelnen Szenarienbüchern von Elden Ring Expansions (+Basegame)
-- 
+Große Karten    H=8,9 B=6,4
+Kleine Karten   H=6,4 B=4,4
 
 
 ToDo:
