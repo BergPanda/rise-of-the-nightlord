@@ -2,4 +2,7 @@
 Assets/_Reference
 Assets/Bosses/*.png
 Assets/Classes/*.png
+Assets/Items/*.png
 Assets/Relics/*.png
+
+Printables/*.pdf

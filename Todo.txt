@@ -2,6 +2,13 @@
 Große Karten    H=8,9 B=6,4
 Kleine Karten   H=6,4 B=4,4
 
+Neue Kartendecks:
+- Sites of the Night
+    - Es sind Tiles mit Sites of Grace abgebildet
+    - Kartengröße: Groß
+- Servants of the Night
+    - Es sind alle verfügbaren Elden Ring: TBG und Dark Souls: TBG Bosse abgebildet
+    - Kartengröße: Groß
 
 ToDo:
 - Nachzählen, wie viele Tag- bzw. Nachtkarten im Weather Deck vorhanden sind.
