@@ -1,3 +1,15 @@
+# Progress
+
+<img align="right" src="https://progress-bar.xyz/75?width=500&title=Basic%20Ruleset%20"/>
+<img align="right" src="https://progress-bar.xyz/50?width=500&title=Conversion%20of%20Elden%20Ring%20TBG%20assets%20"/>
+<img align="right" src="https://progress-bar.xyz/0?width=500&title=Conversion%20of%20Elden%20Ring%20TBG%20Rot%20and%20Sorcery%20assets"/>
+<img align="right" src="https://progress-bar.xyz/25?width=500&title=Conversion%20Dark%20Souls%20TBG%20assets%20"/>
+<img align="right" src="https://progress-bar.xyz/10?width=500&title=Development%20of%20new%20assets%20%20"/>
+<br>
+<br>
+<br>
+<br>
+
 # *DISCLAIMER*
 This is a fan-made project! \
 Neither this project itself nor the creator of this project is associated with Elden Ring,
@@ -25,7 +37,7 @@ The Board Game or Dark Souls: The Board Game products as you can!
 
 |Product                                                            |Requirements   |Purpose                                                                                                          |
 |-------------------------------------------------------------------|---------------|---------------------------------------------------------------------------------------------------------------|
-|Elden Ring: The Board Game                                         |Required       |Basegame of Elden Ring: The Board Game. This product is required to play Rise of the Nightlord.                |
+|Elden Ring: The Board Game                                         |Recommended    |Basegame of Elden Ring: The Board Game. This product is required to play Rise of the Nightlord.                |
 |Elden Ring: The Board Game - Weeping Peninsula Core Set            |Alternative    |This product acts as an alternative to the basegame of Elden Ring: The Board Game, because it is standalone.   |
 |Elden Ring: The Board Game – Stormveil Castle Core Set             |Alternative    |This product acts as an alternative to the basegame of Elden Ring: The Board Game, because it is standalone.   |
 |Elden Ring: The Board Game – Machinations of the Witch Core Set    |TBD            |This product acts as an alternative to the basegame of Elden Ring: The Board Game, because it is standalone.   |
