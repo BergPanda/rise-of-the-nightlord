@@ -10,7 +10,7 @@ Nightreign Notes:
 
 In Kathis Opinion:
 - In Nighreign rastet man ja nicht am Bonfire sondern läuft vorbei -> ergo kein Zeitverbrauch
-- Man sollte bei einem Enemy Camp starten, weil das muss so sein
+- DONE | Man sollte bei einem Enemy Camp starten, weil das muss so sein
 - Eine partie sollte nicht länger als 45 Minuten dauern!
 
 Spirit Candles sind unvollständig
