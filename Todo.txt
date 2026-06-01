@@ -2,13 +2,89 @@
 Große Karten    H=8,9 B=6,4
 Kleine Karten   H=6,4 B=4,4
 
+ToDos, Anmerkungen und Entdeckungen:
+- Überprüfen, ob alle Regeln und Assets auch funktionieren, wenn man NICHT mit dem Hauptspiel spielt,
+  sondern nur mit einem der Core Sets alleine.
+- Alle Dark Souls: The Board Game Gegner Karten scannen:
+    - Alle Behaviour Karten scannen
+    - Behaviour Karten in Elden Ring: The Board Game Karten umwandeln
+    - Alle Encounter Karten scannen
+    - Servants of the Night Karten aus Encounter Karten generieren
+
 Neue Kartendecks:
-- Sites of the Night
-    - Es sind Tiles mit Sites of Grace abgebildet
-    - Kartengröße: Groß
 - Servants of the Night
-    - Es sind alle verfügbaren Elden Ring: TBG und Dark Souls: TBG Bosse abgebildet
+    - Pro Karte sind eine Welle an Gegnern abgebildet.
+    - Die Anzahl, Art der Gegner, und Gegnerposition ist pro Karte variabel
     - Kartengröße: Groß
+- Darkest Night
+    - Es sind alle verfügbaren Elden Ring: TBG und Dark Souls: TBG Bosse abgebildet
+    - Zusätzlich wird die jeweilige Boss-Arena auf der Karte gezeigt.
+        - Manche Bosse (wie Gargoyles) benötigen bestimmte Boss-Arenas.
+    - Kartengröße: Groß
+- Neue Quests (wie unten aufgelistet) in Quests Deck einfügen
+    - Ähnlich wie bereits vorhandene Quests Decks, aber speziell für die Quests innerhalb des Nightreign Szenarios
+
+Ideen zu Belohnungen innerhalb der Spielrunde:
+    - Da die Spielwelt so zufällig wie Möglich sein soll, kann man nicht 100% sagen,
+      wie viele Gegner-Token auf der Spielwelt sein werden.
+      Damit Spieler nicht auf ihr Glück vertrauen müssen, sollten EXP (Souls/Runes)
+      nicht nur zur Töten von Monstern bereitgestellt werden.
+      Stattdessen sollte es eine Reihe von Quests geben,
+      welche verschiedene Belohnungen liefern, damit Spieler selber
+      entscheiden können, wie sie vorgehen möchten.
+    - Quest - Enemies
+        - Place a token for each enemy token cleared on the map
+        - Loot: Runes, PowerUp, Equipment
+    - Quest - Gathering (Materials)
+        - Poker Hands (Herbs, Beast, bla, and blubb)
+        - Present up to 5 Materials to this quest
+            - 8:    Five of a Kind      FFFFF,BBBBB,CCCCC,RRRRR
+            - 7:    Four of a Kind      FFFF,BBBB,CCCC,RRRR
+            - 6:    Full House          FFFBB,FFFCC,FFFRR,BBBFF,BBBCC,BBBRR,CCCFF,CCCBB,CCCRR,RRRFF,RRRRBB,RRRCC
+            - 5:    Straight            FBCR
+            - 4:    Three of a Kind     FFF,BBB,CCC,RRR
+            - 3:    Two Pair            FFBB,FFCC,FFRR,BBCC,BBRR,CCRR
+            - 2:    One Pair            FF,BB,CC,RR
+            - 1:    High Card           F,B,C,R
+        - Loot: Runes, PowerUp, Equipment
+    - Quest - Effigies of the Martyr
+        - Place a token for each Effigy of the Martyr found
+        - Loot: Runes, PowerUp, Equipment
+    - Quest - Merchants
+        - Place a token for the first merchant found
+        - Loot: The Merchant at day 3 has an explanded inventory
+    - Quest - Dungeons
+        - Place a token for each dungeon token cleared on the map
+        - Loot: (?) Upgrade a weapon?
+    - Exploration - Church
+        - Loot: Flask of Crimson/Cerulean Tears
+    - Exploration - Map
+        - Loot: 3 Free additional Tiles added to the Gameworld
+    - Exploration - Telescope
+        - Loot: Refresh Tokens of any 2 Tiles
+    - Exploration - Finger Reader Crone
+        - Loot: Legendary Equipment
+
+Ideen zur Progression übermehrere Spielrunden:
+    - Da diese Erweiterung quasi als rogue-like konzipiert ist,
+      muss es ja auch wie auch in Elden Ring Nightreign eine Progression
+      außerhalb der Spielrunden geben.
+    - Hierfür gibt es Murk und die Relic-Items
+    - Murk
+        - Für jede absolvierte Spielrunde gibt es eine bestimmte Anzahl an Murk
+        - Hierbei muss es je nach Ergebniss der Spielrunde unterschiedlich
+          viel Murk geben
+        - Murk Checklist
+            - Each Quest (Tag1/Tag2) completed:         1 Murk
+            - Each Boss Encounter completed:            5 Murk
+            - Nightlord slayn:                          20 Murk
+            - Challenge 01 - Hardmode:                  20 Murk
+            - Challenge 02 - No Relics:                 20 Murk
+            - Challenge 03 - No Deaths:                 20 Murk
+        - Relic Rewards
+            - Für jeden verlorenen Run:                     Relic Level 1
+            - Für jeden erfolgreichen Run:                  Relic Level 2
+            - Für jeden erfolgreichen Run mit Challenges:   Relic Level 3
 
 ToDo:
 - Nachzählen, wie viele Tag- bzw. Nachtkarten im Weather Deck vorhanden sind.
@@ -27,12 +103,11 @@ ToDo:
         - S01-S06
         - 07-61
         - Site of Grace         7
-        - Stake of Marika       3
+        - Enemy                 6
         - Effigy of the Martyr  6
-        - Finger Reader Crone   1
         - Spirit Spring         6
         - Spirit Candle         5
-        - Enemy                 6
+        - Stake of Marika       3
         - Merchant              3
         - Guiding Statue        2
         - Telescope             2
@@ -42,9 +117,11 @@ ToDo:
         - Star                  2
         - NPC                   2
         - Map                   2
+        - Finger Reader Crone   1
 
 - Wie funktioneren Merchants in anderen Szenarien des Basegames?
     - Wie sollen Merchants in der Overworld funktioneren?
     - Wie soll der Merchant in Tag 3 funktioniere?
 - Für jede Elden Ring Klasse ein Dark Souls Equivalent finden
-    - Vorbereiten, dass alle Klassen Karten mit Dark Souls Klassen ausgetauscht werden können.
+    - Vorbereiten, dass alle Klassen Karten mit Dark Souls Klassen
+      ausgetauscht werden können.

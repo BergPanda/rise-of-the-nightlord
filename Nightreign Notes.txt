@@ -1,0 +1,41 @@
+Nightreign Notes:
+- Es gibt bei folgenden Tokens zu wenig im Basisspiel
+	- Es gibt nur 3 Token für Effigies
+	- 6 Beast Tokens
+	- 3 Marika Tokens
+	- 2 Church Tokens
+	- 1 Telescope
+	- 4 Candles
+	- 4 Springs
+
+In Kathis Opinion:
+- In Nighreign rastet man ja nicht am Bonfire sondern läuft vorbei -> ergo kein Zeitverbrauch
+- Man sollte bei einem Enemy Camp starten, weil das muss so sein
+- Eine partie sollte nicht länger als 45 Minuten dauern!
+
+Spirit Candles sind unvollständig
+Summon Ashe dingens is unvollständig
+
+Was passiert bei Levelup? Wann werden die Attribute erhöht? Was passiert wenn man bereits schaden hat?
+
+Effigy of the Martyr:
+	- Wann sollen die Spieler dem Kampf beitreten können?
+	- Müssen sie wirklich dort hinlaufen?
+	- Es wäre vielleicht besser, dass bei Start des Kampfes alle SPieler automatisch die Auswahl haben, dem Kampf beizutreten (mit oder ohne Malus)
+
+Verwirrung:
+Wenn man durch das Telescope wieder Tokens auffrischen kann, dann führt das zu unnötigen Verwirrungen mit der Church Quest etc.
+Das Auffrischen der Tokens ist vielleicht keine gute Idee
+
+Nightfall ereignis:
+Alle SPieler sollten nur eine Aktion haben. Weil sonst würden alle spieler viel zu schnell beim Site of the Night sein.
+
+Gegner:
+Armour bei Gegnern ist sehr stark. Large Hollow mit 1 Armour ist grenzwertig. Aber Sentinel mit 2 Armour ist fast zu viel.
+Sentinel kann nur nach links bewegen. Das führt zu Situationen wo er nicht angreifen kann. Besser wäre eine entweder oder (links oder rechts).
+
+Levelups:
+Scheinbar bekommt man zwar beim levelup bessere Stats. Aber die Attributkarten bleiben die gleiche, wodurch man nicht mehr schaden macht.
+Vor allem brauchen bessere Waffen auch mehr Attributsicons, was dann gar nicht mehr möglich ist.
+
+
