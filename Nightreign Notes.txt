@@ -39,19 +39,3 @@ Scheinbar bekommt man zwar beim levelup bessere Stats. Aber die Attributkarten b
 Vor allem brauchen bessere Waffen auch mehr Attributsicons, was dann gar nicht mehr möglich ist.
 
 Pokerhand umbauen, dass auch die Symbole auf den Materialien berücksichtigt wird?
-
-Neue Relic Karten:
-    Morale Boost
-    Protective Aura
-    Rapid Recovery
-    Flask of Sunlight
-    Flask of Moonlight
-    Calm Mind
-    Ancestral Roots
-    Natural Talent
-    Last Resort
-    Overwhelming Power
-    Iron Will
-    Strength of Will
-    Bonfire Ascetic
-    Divine Intervention
